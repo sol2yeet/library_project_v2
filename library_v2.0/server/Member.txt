@@ -1,0 +1,3 @@
+yesol123 asd123 안예솔 1
+user123 asd123 안예솔 0
+admin123 asd123 안예솔 1
